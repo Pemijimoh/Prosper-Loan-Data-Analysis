@@ -1,5 +1,5 @@
-# (Prosper Loan Data Analysis)
-## by (Nafisa Opemi Jimoh)
+# Prosper Loan Data Analysis
+## by Nafisa Opemi Jimoh
 
 
 ## Dataset
