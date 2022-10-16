@@ -13,7 +13,7 @@
 
 ## Summary of Findings
 
-> After data exploration, it was observed that a total of 38,074 borrowers have completed their loan payment while 56,576 borrowers are still currently paying thir loan. Among the borrowers still paying loans, majority of them are employed while full-time job borrowers are seen to have completed paying their loans more than others. Those who are employed collected a higher amount of loan. 2,067 borrowers are past due date of payment. 
+> After data exploration, it was observed that a total of 38,074 borrowers have completed their loan payment while 56,576 borrowers are still currently paying thir loan. Among the borrowers still paying loans, majority of them are employed while full-time job borrowers are seen to have completed paying their loans more than others. Those who are employed collected a higher amount of loan. 2,067 borrowers are past the due date of payment. 
 
 > Borrowers who are over-due for payment were seen to have higher interest rate. Borrowers with high monthly income paid higher monthly loans. Borrowers who are not employed have higher interest rate.
 
